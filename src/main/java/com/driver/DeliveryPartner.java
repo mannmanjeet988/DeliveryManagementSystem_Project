@@ -11,6 +11,7 @@ public class DeliveryPartner {
     }
 
     public String getId() {
+
         return id;
     }
 
@@ -19,6 +20,7 @@ public class DeliveryPartner {
     }
 
     public void setNumberOfOrders(Integer numberOfOrders) {
+
         this.numberOfOrders = numberOfOrders;
     }
 }
